@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.offbeat"
+    namespace = "dev.anshukanrar.offbeat"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.example.offbeat"
+        applicationId = "dev.anshukanrar.offbeat"
         minSdk = 27
         targetSdk = 37
         versionCode = 1

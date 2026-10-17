@@ -1,4 +1,4 @@
-package com.example.offbeat.ui.theme
+package dev.anshukanrar.offbeat.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
