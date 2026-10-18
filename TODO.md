@@ -48,8 +48,8 @@ The UI only ever reads from the database (§1.4 "offline-first"). The network on
   - Learn: what JSON looks like; this is exactly what your app will receive (§7.1, §7.5).
   - Done when: you see `"status":"ok"` and your albums in the JSON.
   - (The app will use token+salt auth instead of `p=`; `p=` is just for this manual test.)
-- [ ] **0.3 `git init`** and commit the template project. (§0.2)
-- [ ] **0.4 Rename package** `com.example.offbeat` → `dev.yourname.offbeat` (namespace, applicationId, move source folders: right-click package in Android Studio → Refactor → Rename). Do this **before anything else** (§0.2).
+- [x] **0.3 `git init`** and commit the template project. (§0.2)
+- [x] **0.4 Rename package** `com.example.offbeat` → `dev.yourname.offbeat` (namespace, applicationId, move source folders: right-click package in Android Studio → Refactor → Rename). Do this **before anything else** (§0.2).
 
 ---
 
