@@ -14,4 +14,3 @@ object TokenAuth{
         return digest.joinToString("") { "%02x".format(it) }
     }
 }
-
