@@ -116,7 +116,7 @@ Folder: `core/network/` (§2.3, §7)
   - Emulator tip: the emulator can't use your LAN IP the same way; use a real phone, or `10.0.2.2` if the server is on the same Mac (§7.7).
 
 **Milestone A: the app can talk to Navidrome.**
-
+  
 ---
 
 ## Phase 5 — Room: store it on the phone (Layer 2)
